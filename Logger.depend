@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1516928233 source:c:\users\araf\desktop\keylogger\logger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+
+1516924418 c:\users\araf\desktop\keylogger\logger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1516925220 c:\users\araf\desktop\keylogger\logger\keyconstants.h
+	<string>
+	<map>
+
+1516925273 c:\users\araf\desktop\keylogger\logger\base64.h
+	<vector>
+	<string>
+
